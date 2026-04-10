@@ -11,10 +11,6 @@ Var
    vm: vetor[1..40] de real
    i: inteiro
 
-   //tentei utilizar procedimento mas ainda n�o consigo (erro com  vetor)
-   //tamb�m nao consegui com fun��o --> provavel que seja sintaxe/montagem
-
-
 inicio
 
 
